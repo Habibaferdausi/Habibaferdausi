@@ -3,9 +3,9 @@
 
 <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a6j1get4w41fq0ik2wvgw2kq7wgg648wbztpnmv1&ep=v1_gifs_search&rid=giphy.gif&ct=g"      align="right" alt="coding" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=habibaferdausi&label=Profile%20views&color=0e75b6&style=flat" alt="habibaferdausi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibaferdausi" alt="habibaferdausi" /></a> </p>
+
+<p align="left"> 
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -14,6 +14,7 @@
 - 📫 How to reach me **habibaferdausiritu@gmail.com**
 
 - ⚡ Fun fact **I Think I'm Funny**
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
