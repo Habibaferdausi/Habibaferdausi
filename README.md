@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Habiba Ferdausi Ritu</h1>
 <h3 align="center">I have a passion for building intuitive and engaging user experiences using modern web technologies. <br></h3>
-
+<br>
+<br>
 <img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a6j1get4w41fq0ik2wvgw2kq7wgg648wbztpnmv1&ep=v1_gifs_search&rid=giphy.gif&ct=g"      align="right" alt="coding" width="400">
 
-
+<br>
 
 <p align="left"> 
 <br>
