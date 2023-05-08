@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Habiba Ferdausi Ritu</h1>
 <h3 align="center">I have a passion for building intuitive and engaging user experiences using modern web technologies.</h3>
 
+<img src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47a6j1get4w41fq0ik2wvgw2kq7wgg648wbztpnmv1&ep=v1_gifs_search&rid=giphy.gif&ct=g"      align="right" alt="coding" width="400">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibaferdausi&label=Profile%20views&color=0e75b6&style=flat" alt="habibaferdausi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=habibaferdausi" alt="habibaferdausi" /></a> </p>
@@ -15,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/habiba ferdausi ritu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habiba ferdausi ritu" height="30" width="40" /></a>
-<a href="https://fb.com/ritu pramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritu pramanik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/habiba-ferdausi-ritu-695225183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="habiba ferdausi ritu" height="30" width="40" /></a>
+<a href="https://fb.com/Rituu.pramanik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritu pramanik" height="30" width="40" /></a>
 <a href="https://instagram.com/ritu.pramanik_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ritu.pramanik_" height="30" width="40" /></a>
 </p>
 
