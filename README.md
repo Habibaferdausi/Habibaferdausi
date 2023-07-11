@@ -31,6 +31,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=habibaferdausi&show_icons=true&locale=en&layout=compact" alt="habibaferdausi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=habibaferdausi&show_icons=true&locale=en" alt="habibaferdausi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=habibaferdausi&" alt="habibaferdausi" /></p>
