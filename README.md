@@ -6,13 +6,16 @@
 
 <p align="left"> 
 
-- 🌱 I’m currently learning **Web Development**
 
-- 💬 Ask me about **HTML, CSS, JS, React ,Bootstrap, Tailwind, Node js, MongoDB, Express js**
+- 🌱 I’m currently learning **MERN Stack Development**
 
-- 📫 How to reach me **habibaferdausiritu@gmail.com**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://habibaritu-b75de.web.app/)
 
-- ⚡ Fun fact **I Think I'm Funny**
+- 💬 Ask me about **anything related to MERN stack and related technologies**
+
+- 📫 Email  **habibaferdausiritu@gmail.com**
+
+- 📄 My  [Resume](https://drive.google.com/file/d/16FuP6qFj5Ty0Bpa75P9gpz6LES6cXyYK/view?usp=drive_link)
 </p>
  <br>
 <h3 align="left">Connect with me:</h3>
