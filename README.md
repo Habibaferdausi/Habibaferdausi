@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Habiba Ferdausi Ritu</h1>
 <h3 align="center">I have a passion for building intuitive and engaging user experiences using modern web technologies. <br></h3>
-![Header](./[https://i.ibb.co/swpD7N9/Blue-Modern-Web-Designer-Twitter-Header.jpg])
+<img src="https://i.ibb.co/swpD7N9/Blue-Modern-Web-Designer-Twitter-Header.jpg"/>
 
 
 
