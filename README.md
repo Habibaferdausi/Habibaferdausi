@@ -12,15 +12,13 @@
 <p align="left"> 
 
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://habibaritu-b75de.web.app/)
 
-- 💬 Ask me about **anything related to MERN stack and related technologies**
+- 💬 Ask me about **anything related to the MERN stack and related technologies**
 
 - 📫 Email  **habibaferdausiritu@gmail.com**
 
-- 📄 My  [Resume](https://drive.google.com/file/d/16FuP6qFj5Ty0Bpa75P9gpz6LES6cXyYK/view?usp=drive_link)
 </p>
  <br>
 <h3 align="left">Connect with me:</h3>
